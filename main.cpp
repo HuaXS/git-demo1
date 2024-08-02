@@ -7,7 +7,9 @@ int main(int argc, char** argv)
 	printf("hello world!\n");
 	
 	for(int i = 0; i < 10; i++)  cout << i << " ";
-	cout <<ｅｎｄｌ；
+	cout << endl；
+	
+	cout << "huaazi" << endl;
 
 	return 0;
 }
