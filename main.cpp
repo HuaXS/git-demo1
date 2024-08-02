@@ -10,8 +10,7 @@ int main(int argc, char** argv)
 	cout << endl；
 	
 	cout << "huaazi" << endl;
-	
 	cout << "hhh" << endl;
-
+	int i = 0;
 	return 0;
 }
