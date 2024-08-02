@@ -12,5 +12,6 @@ int main(int argc, char** argv)
 	cout << "huaazi" << endl;
 	cout << "hhh" << endl;
 	int i = 0;
+	cout << "add code"；
 	return 0;
 }
